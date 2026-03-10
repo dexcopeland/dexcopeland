@@ -2,7 +2,7 @@
 
 > *12-year Air Force vet. Cloud Security Assessor. GRC engineer who codes. Neurodivergent thinker. Obsessed with making compliance less painful for everyone.*
 
-I'm not your typical GRC person who lives in spreadsheets — I build tools to escape them. My work sits at the intersection of **compliance automation**, **AI**, and **education**, with a strong belief that guardrails aren't barriers; they're where creativity begins.
+I'm not your typical GRC person who lives in spreadsheets. I build tools to escape them. My work sits at the intersection of **compliance automation**, **AI**, and **education**, with a strong belief that guardrails aren't barriers; they're where creativity begins.
 
 ---
 
@@ -66,7 +66,6 @@ A custom assessment platform that leverages **OSCAL** (Open Security Controls As
 
 I'm available for **mentoring**, **speaking**, **open-source collaboration**, **consulting**, and **freelance** work. If you're working on something at the intersection of GRC, AI, or compliance education — let's talk.
 
-- 🌐 [copeuccino.com](https://copeuccino.com)
 - 💼 [LinkedIn](https://linkedin.com/in/dexcopeland)
 - 🏛️ [GRC Engineer Club Profile](https://directory.grcengclub.com/engineers/dexcopeland/)
 - 🏆 [Credly Badges](https://www.credly.com/users/dex-xavier-copeland/badges)
