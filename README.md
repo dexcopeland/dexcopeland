@@ -1,6 +1,6 @@
 # Hey, I'm Dex 👋
 
-> *12-year Air Force vet. Cloud Security Assessor. GRC engineer who codes. Neurodivergent thinker. Obsessed with making compliance less painful for everyone.*
+> *12-year Air Force vet. AI Governance Manager. GRC Engineering Trainer. Neurodivergent thinker. Obsessed with making compliance less painful for everyone.*
 
 I'm not your typical GRC person who lives in spreadsheets. I build tools to escape them. My work sits at the intersection of **compliance automation**, **AI**, and **education**, with a strong belief that guardrails aren't barriers; they're where creativity begins.
 
