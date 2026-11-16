@@ -8,13 +8,19 @@ I'm not your typical GRC person who lives in spreadsheets. I build tools to esca
 
 ## 🚧 What I'm Building Right Now
 
-### 🔬 OSCAL Assessment Orchestration Platform *(Active Development)*
-A custom assessment platform that leverages **OSCAL** (Open Security Controls Assessment Language) and **MCP** (Model Context Protocol) to modernize how we conduct security assessments.
+### 📋 [Maryland Algorithmic Impact Assessment](https://github.com/dexcopeland/ai-impact-assessment-state-of-maryland) *(Active Development)*
+A browser-based tool that drafts an Algorithmic Impact Assessment (AIA) for an AI system at a Maryland state agency. You answer a form. The page writes the draft from your answers with fixed rules. Nothing is sent to a server, and no AI model is called.
 
-**Why it matters:** Most organizations still do assessments in Word docs and color-coded spreadsheets. This platform brings machine-readable compliance data, AI-assisted control analysis, and structured evidence collection into one place.
+The draft is a four-document package: Executive Summary, Evidence, Assessment Submission Record, and Follow-Up Actions. Each document comes as PDF and Word, together in a zip. Every screen states that it is an agency draft, not an approval.
 
-**Stack:** Python · OSCAL · MCP · AI-assisted workflows  
-**Status:** 🟡 In active development — follow along or contribute!
+Synthetic scenarios S01-S24 validate the rules engine. The [roadmap](https://github.com/dexcopeland/ai-impact-assessment-state-of-maryland/blob/main/ROADMAP.md) holds the work that comes after v1.
+
+**Why it matters:** Agencies need a consistent, inspectable way to draft AIAs. Sometimes the right design is fixed, inspectable rules instead of a model.
+
+**Stack:** TypeScript · Vite · static site on GitHub Pages  
+**License:** MIT  
+**Status:** 🟡 In active development. Follow along or contribute.  
+**Live tool:** [https://dexcopeland.github.io/ai-impact-assessment-state-of-maryland/](https://dexcopeland.github.io/ai-impact-assessment-state-of-maryland/) · **Repo:** [https://github.com/dexcopeland/ai-impact-assessment-state-of-maryland](https://github.com/dexcopeland/ai-impact-assessment-state-of-maryland)
 
 > *"I want to show that GRC practitioners can build the tools that change their own field."*
 
@@ -27,7 +33,7 @@ A custom assessment platform that leverages **OSCAL** (Open Security Controls As
 | Project | What It Does | Stack |
 |---|---|---|
 | [CMMC Level 2 Gap Analyzer](https://github.com/dexcopeland/cmmc-level-2-control-gap-analyzer) | Automates NIST 800-171 control tracking, gap identification, POA&M management, and PDF report generation | Python · Streamlit |
-| OSCAL Assessment Platform *(in progress)* | AI-powered assessment orchestration using OSCAL + MCP | Python · OSCAL · MCP |
+| [Maryland Algorithmic Impact Assessment](https://github.com/dexcopeland/ai-impact-assessment-state-of-maryland) | Drafts an Algorithmic Impact Assessment for an AI system at a Maryland state agency. A browser form applies fixed rules and packages PDF and Word files in a zip | TypeScript · Vite · GitHub Pages |
 
 ### 🛠️ Utility Tools
 
@@ -42,7 +48,7 @@ A custom assessment platform that leverages **OSCAL** (Open Security Controls As
 
 **Compliance Automation** — If it can be automated, it should be. I build tools that replace manual, error-prone compliance workflows with structured, repeatable processes.
 
-**AI in GRC** — Not AI replacing GRC practitioners, but AI *amplifying* what they can accomplish. I'm experimenting with how LLMs + OSCAL can change assessment workflows.
+**AI in GRC:** Not AI replacing GRC practitioners, but AI *amplifying* what they can accomplish. I'm building AI governance tooling, such as impact assessments, so those drafts stay consistent and inspectable.
 
 **Education & Mentorship** — I joined the Air Force wanting to be a teacher. That never left me. I'm building content for people breaking into GRC *and* for veterans in the field who know there's a better way to do things.
 
@@ -52,7 +58,8 @@ A custom assessment platform that leverages **OSCAL** (Open Security Controls As
 
 ## 🏅 Background & Credentials
 
-- ☁️ **Cloud Security Assessor** — Maryland Department of Information Technology
+- 🤖 **AI Governance Manager**, Maryland Department of Information Technology
+- 🛠️ **Head of Growth and Training**, GRC Engineering Club
 - 🎖️ **12-Year U.S. Air Force Veteran** — Finance, Network/System Ops, Cybersecurity
 - 🎓 **WGU B.S. Cybersecurity & Information Assurance** — *Capstone Excellence Award*
 - 📜 **ISO 42001 Lead Auditor** · **CySA+** · **PenTest+** · **Google Professional Cloud Security Engineer**
